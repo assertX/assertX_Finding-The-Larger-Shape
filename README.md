@@ -14,6 +14,7 @@ In this assignment, you are going to write a Java program that compares the area
 •There may be empty lines at the beginning, in the middle, and/or at the end of the input file.  Your program should smartly skip those empty lines.
 
 
+
 •The output file is a plain text file (filename: result.txt).
 
 •After finding out the larger shape in each row of the input file, your program should write the name of the larger shape (Either "Square" or "Circle") to the output file.  Each result should be a separate line in the output file.
